@@ -3,12 +3,12 @@ A simple fileserver which runs on top of Github pages.
 
 #### Access at : https://dharun2308.github.io
 
-Documentation:
+## Documentation:
 
-## DEMO
+### DEMO
 [http://karlheinzniebuhr.github.io/resources.html](http://karlheinzniebuhr.github.io/resources/)
 
-## Get started
+### Get started
 - Setup your Github page here https://pages.github.com/ 
 - Clone it:
 ```bash
@@ -29,9 +29,9 @@ jekyll serve
 ```
 - Open Webbrowser at [http://localhost:4000/](http://localhost:4000/)
 
-## Add content to your server
+### Add content to your server
 - Just put your stuff inside the /resources/ folder and commit & push
 - Open your page at https://username.github.io
 
-## Important
+### Important
 Github will complain if you host binaries and/or very large files. If you upload Binaries compress (Zip) them first and try to not abuse with file size. 
